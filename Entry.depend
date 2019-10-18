@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1547577184 source:c:\users\admin\desktop\сишечка\entry\main.cpp
+	<iostream>
+	"Entry.h"
+	"Book.h"
+	"PhoneEntry.h"
+	<string>
+
+1547432485 source:c:\users\admin\desktop\сишечка\entry\src\entry.cpp
+	"Entry.h"
+	<iostream>
+
+1547432467 c:\users\admin\desktop\сишечка\entry\include\entry.h
+	<string>
+
+1547577249 source:c:\users\admin\desktop\сишечка\entry\src\book.cpp
+	"Book.h"
+	"Entry.h"
+	"PhoneEntry.h"
+	<map>
+
+1547576929 c:\users\admin\desktop\сишечка\entry\include\book.h
+	<string>
+	"Entry.h"
+	<map>
+	<iostream>
+
+1547433212 source:c:\users\admin\desktop\сишечка\entry\src\phoneentry.cpp
+	"PhoneEntry.h"
+	"Entry.h"
+	"Book.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1547433405 c:\users\admin\desktop\сишечка\entry\include\phoneentry.h
+	"Entry.h"
+	"Book.h"
+	<string>
+
